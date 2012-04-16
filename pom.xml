@@ -22,4 +22,10 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  
+   <scm>
+	<connection>scm:git@github.com:jsvede/tech-debt-annotations.git</connection>
+	<url>scm:git@github.com:jsvede/tech-debt-annotations.git</url>
+	<developerConnection>scm:git@github.com:jsvede/tech-debt-annotations.git</developerConnection>
+  </scm>
 </project>
