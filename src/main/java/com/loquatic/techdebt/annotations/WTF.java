@@ -1,4 +1,4 @@
-package org.techdebt.annotations;
+package com.loquatic.techdebt.annotations;
 
 /**
  * Used only in the most extreme cases of tech debt, this 

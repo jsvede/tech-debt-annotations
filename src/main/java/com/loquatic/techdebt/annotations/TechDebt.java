@@ -1,4 +1,4 @@
-package org.techdebt.annotations;
+package com.loquatic.techdebt.annotations;
 
 /**
  * An annotation used to mark an item of tech debt within a project.

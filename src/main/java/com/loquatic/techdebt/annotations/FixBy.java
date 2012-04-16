@@ -1,4 +1,4 @@
-package org.techdebt.annotations;
+package com.loquatic.techdebt.annotations;
 
 /**
  * A simple annotation to set a date by which

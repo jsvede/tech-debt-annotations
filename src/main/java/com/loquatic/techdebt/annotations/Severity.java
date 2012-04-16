@@ -1,4 +1,4 @@
-package org.techdebt.annotations;
+package com.loquatic.techdebt.annotations;
 
 /**
  * An enum of Severities for use in the TechDebt annotation.

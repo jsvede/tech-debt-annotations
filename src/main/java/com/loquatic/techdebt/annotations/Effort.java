@@ -1,4 +1,4 @@
-package org.techdebt.annotations;
+package com.loquatic.techdebt.annotations;
 
 /**
  * An arbitrary list used to describe levels of effort.
